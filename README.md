@@ -1,5 +1,22 @@
 # Facial-Emotional-Recognition-Using-Shallow-CNN-Paper-
 
+### Abstract
+
+Facial emotional recognition became an important task in
+the modern day scenario to understand the state of emotions of a human
+being by machines. With the development of computational power
+and deep learning techniques, facial emotion recognition (FER) became
+feasible, which contributed to a wide range of applications in modern
+day technology. In this paper, we propose a shallow convolutional neural
+network architecture with feature-based data, which can do this task
+more eectively and attained the state-of-the-art accuracy with less computational
+complexity (in terms of learnable parameters). The proposed
+architecture is shallow and gives comparable performance with all the
+existing approaches for FER in deep learning
+
+### Code
+
+
 - This Notebook, deals with facial emotional recognition.
 - The dataset used is JAFFE facial emotional dataset
 - This dataset consists of 7 facial emotions such as anger, disgust, happy, sad, fear, joy and neutral
