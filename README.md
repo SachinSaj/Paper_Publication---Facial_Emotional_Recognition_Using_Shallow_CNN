@@ -27,7 +27,7 @@ existing approaches for FER in deep learning
 ** Details of the project is given in this repository, in the form of Paper and Presentation.
 
 
-### If using this architecture, please do site our paper
+### Paper to Cite
 
 @inproceedings{saj2019facial,
   title={Facial Emotion Recognition Using Shallow CNN},
