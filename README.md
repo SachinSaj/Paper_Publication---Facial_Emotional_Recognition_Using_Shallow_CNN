@@ -7,7 +7,7 @@
 - The result was published in " Symposium on Machine Learning and Metaheuristics Algorithms, and Applications (SoMMA'19) "
 
 
-If using this architecture, please do site our paper...
+### If using this architecture, please do site our paper...
 
 @inproceedings{saj2019facial,
   title={Facial Emotion Recognition Using Shallow CNN},
@@ -17,3 +17,14 @@ If using this architecture, please do site our paper...
   year={2019},
   organization={Springer}
 }
+
+@misc{saj2019facial1,
+    author       = {Saj, TK Sachin and Babu, Seshu and Reddy, Vamsi Kiran and Gopika, P and Sowmya, V and Soman, KP},
+    title        = {Facial Emotion Recognition Using Shallow CNN}},
+    month        = Dec,
+    year         = 2019,
+    booktitle    = {Symposium on Machine Learning and Metaheuristics Algorithms, and Applications},
+    version      = {1.0},
+    publisher    = {Springer},
+    pages        = {144--150}
+    }
