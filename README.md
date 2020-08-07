@@ -7,7 +7,7 @@
 - The result was published in " Symposium on Machine Learning and Metaheuristics Algorithms, and Applications (SoMMA'19) "
 
 
-** Details of the project is given in this repository, in the form of Paper and presentation.
+** Details of the project is given in this repository, in the form of Paper and Presentation.
 
 
 ### If using this architecture, please do site our paper
