@@ -1,4 +1,4 @@
-# Facial-Emotional-Recognition-Using-Shallow-CNN-Paper-
+# Paper Facial-Emotional-Recognition-Using-Shallow-CNN
 
 ### Abstract
 
